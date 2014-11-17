@@ -1,0 +1,26 @@
+{
+  "name": "cordova-dji",
+  "version": "0.1.0",
+  "description": "a DJI SDK for cordova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/cordova-dji.git"
+  },
+  "keywords": [
+    "cordova",
+    "dji",
+    "DJI",
+    "drone",
+    "phonegap"
+  ],
+  "author": "turing <o.u.turing@Gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/cordova-dji/issues"
+  },
+  "homepage": "https://github.com/turingou/cordova-dji"
+}
